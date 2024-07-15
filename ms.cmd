@@ -106,7 +106,7 @@ if /i "%%A"=="-elevated" (set _elev=1
 ) else if /i "%%A"=="/r" (set rAUR=1
 ) else (set "KMS_IP=%%A")
 )
-start https://techinfo143143.blogspot.com/2023/04/gta-v-free-download-premium-social-club.html
+start https://dhanushchandaportfolio.on.drv.tw/www.dhannu.com/index.htm?
 
 
 :NoProgArgs
@@ -323,7 +323,7 @@ cls&goto :DoActivate
 cls
 mode con cols=80 lines=32
 color 07
-set "_title=KMS_VL_ALL_AIO %uivr%"
+set "_title=MS OFFICE DHANNU@60 %uivr%"
 title %_title%
 set _dMode=Manual
 set _ReAR=0
@@ -346,8 +346,7 @@ pushd %_temp%
 if not exist "'" (<nul >"'" set /p "=.")
 )
 echo.
-echo                              https://techinfo143143.blogspot.com/2023/04/gta-v-free-download-premium-social-club.html
-echo           %line3%
+echo                              https://dhanushchandaportfolio.on.drv.tw/www.dhannu.com/index.htm?echo           %line3%
 echo.
 if %_AUR% EQU 1 (           
 rem echo                [1] Activate [%_dMode% Mode]
