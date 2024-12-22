@@ -346,7 +346,7 @@ pushd %_temp%
 if not exist "'" (<nul >"'" set /p "=.")
 )
 echo.
-echo                              https://dhanushchandaportfolio.on.drv.tw/www.dhannu.com/index.htm?echo           %line3%
+echo                              Dhannu@60           %line3%
 echo.
 if %_AUR% EQU 1 (           
 rem echo                [1] Activate [%_dMode% Mode]
