@@ -106,7 +106,7 @@ if /i "%%A"=="-elevated" (set _elev=1
 ) else if /i "%%A"=="/r" (set rAUR=1
 ) else (set "KMS_IP=%%A")
 )
-start https://dhanushchandaportfolio.on.drv.tw/www.dhannu.com/index.htm?
+start https://dhannuchanda.github.io/Dhannu/
 
 
 :NoProgArgs
